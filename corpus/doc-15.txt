@@ -1,0 +1,5 @@
+TAX INVOICE 10435
+Invoice INV-10435 issued 15/03/2027.
+Supplier ABN 51 824 753 556.
+Amount due $1,877.00 (incl. GST).
+Payment terms 14 days. Queries: billing115@example.com.au.

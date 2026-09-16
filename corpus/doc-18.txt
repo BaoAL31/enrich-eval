@@ -1,0 +1,5 @@
+TAX INVOICE 10438
+Invoice INV-10438 issued 15/03/2027.
+Supplier ABN 51 824 753 556.
+Amount due $20,320.00 (incl. GST).
+Payment terms 14 days. Queries: billing118@example.com.au.

@@ -1,0 +1,498 @@
+[
+  {
+    "doc_id": "doc-00",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10420"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$82,214.00"
+      },
+      {
+        "type": "email",
+        "value": "billing100@example.com.au"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-01",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer1@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0413 859 381"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-02",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$130,328.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer2@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-03",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10423"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$18,854.00"
+      },
+      {
+        "type": "email",
+        "value": "billing103@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-04",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer4@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0423 792 858"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-05",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$284,189.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer5@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-06",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10426"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$76,532.00"
+      },
+      {
+        "type": "email",
+        "value": "billing106@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-07",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer7@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0414 130 195"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-08",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$116,338.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer8@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-09",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10429"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$65,716.00"
+      },
+      {
+        "type": "email",
+        "value": "billing109@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-10",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer10@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0413 674 303"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-11",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$371,765.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer11@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-12",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10432"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$90,658.00"
+      },
+      {
+        "type": "email",
+        "value": "billing112@example.com.au"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-13",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer13@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0463 325 559"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-14",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$306,384.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer14@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-15",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10435"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$1,877.00"
+      },
+      {
+        "type": "email",
+        "value": "billing115@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-16",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer16@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0430 814 532"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-17",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$179,384.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer17@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-18",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10438"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$20,320.00"
+      },
+      {
+        "type": "email",
+        "value": "billing118@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-19",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer19@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0453 204 194"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-20",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$199,199.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer20@example.com"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-21",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10441"
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027"
+      },
+      {
+        "type": "money",
+        "value": "$46,967.00"
+      },
+      {
+        "type": "email",
+        "value": "billing121@example.com.au"
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-22",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com"
+      },
+      {
+        "type": "email",
+        "value": "case.officer22@example.com"
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027"
+      },
+      {
+        "type": "phone",
+        "value": "0454 718 370"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc-23",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027"
+      },
+      {
+        "type": "money",
+        "value": "$27,847.50"
+      },
+      {
+        "type": "email",
+        "value": "reviewer23@example.com"
+      }
+    ]
+  }
+]

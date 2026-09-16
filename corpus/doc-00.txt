@@ -1,0 +1,5 @@
+TAX INVOICE 10420
+Invoice INV-10420 issued 15/03/2027.
+Supplier ABN 51 824 753 557.
+Amount due $82,214.00 (incl. GST).
+Payment terms 14 days. Queries: billing100@example.com.au.

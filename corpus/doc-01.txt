@@ -1,0 +1,7 @@
+From: intake@example.com
+To: case.officer1@example.com
+Subject: Document review 201
+Sent: 02/04/2027
+
+Please review the attached bundle. Regards,
+Intake team, contact 0413 859 381.

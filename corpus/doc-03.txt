@@ -1,0 +1,5 @@
+TAX INVOICE 10423
+Invoice INV-10423 issued 15/03/2027.
+Supplier ABN 51 824 753 556.
+Amount due $18,854.00 (incl. GST).
+Payment terms 14 days. Queries: billing103@example.com.au.

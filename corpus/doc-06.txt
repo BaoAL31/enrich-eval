@@ -1,0 +1,5 @@
+TAX INVOICE 10426
+Invoice INV-10426 issued 15/03/2027.
+Supplier ABN 51 824 753 556.
+Amount due $76,532.00 (incl. GST).
+Payment terms 14 days. Queries: billing106@example.com.au.

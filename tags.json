@@ -1,0 +1,986 @@
+[
+  {
+    "doc_id": "doc-00",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10420",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 557",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$82,214.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing100@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "b15641c22dc0ff5a0906638fe7a46156e1373cdb85f355cc838f31b40f3b4a01"
+  },
+  {
+    "doc_id": "doc-01",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer1@example.com",
+        "span": [
+          29,
+          54
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          90,
+          100
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0413 859 381",
+        "span": [
+          167,
+          179
+        ]
+      }
+    ],
+    "source_sha256": "524363126b329d2fb56647ba26502c814d75bf379b305319e3d193059859947d"
+  },
+  {
+    "doc_id": "doc-02",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$130,328.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer2@example.com",
+        "span": [
+          172,
+          193
+        ]
+      }
+    ],
+    "source_sha256": "647980b82b53047e0f0ba21e1bbc3fba9acdcfa3ddada2053219a6fa8738662d"
+  },
+  {
+    "doc_id": "doc-03",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10423",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$18,854.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing103@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "721c6688708d998cb8ad4718b13c49f4943cd10d65647d4cde413dddac9a7fc3"
+  },
+  {
+    "doc_id": "doc-04",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer4@example.com",
+        "span": [
+          29,
+          54
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          90,
+          100
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0423 792 858",
+        "span": [
+          167,
+          179
+        ]
+      }
+    ],
+    "source_sha256": "eb69f304bde875c31d8190a4d68f42b2da62a90a70627feeedd6f7695ef4c2eb"
+  },
+  {
+    "doc_id": "doc-05",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$284,189.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer5@example.com",
+        "span": [
+          172,
+          193
+        ]
+      }
+    ],
+    "source_sha256": "c07c89e703ce232d0451249fd6db2bd5cb39769dfeba768026350627bb06504f"
+  },
+  {
+    "doc_id": "doc-06",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10426",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$76,532.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing106@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "15ff80b93f8b8346caf2f199bcab6f490676fafa39b8c159cbba54539faf40a9"
+  },
+  {
+    "doc_id": "doc-07",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer7@example.com",
+        "span": [
+          29,
+          54
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          90,
+          100
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0414 130 195",
+        "span": [
+          167,
+          179
+        ]
+      }
+    ],
+    "source_sha256": "d9930fd92b4d240be7ce8e861a194da6a299a8e979e4f22fa133fd7332a636fe"
+  },
+  {
+    "doc_id": "doc-08",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$116,338.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer8@example.com",
+        "span": [
+          172,
+          193
+        ]
+      }
+    ],
+    "source_sha256": "c814349f4cbcffb80ced03e5da4a82e957b641c7f07652aab6494442059215c4"
+  },
+  {
+    "doc_id": "doc-09",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10429",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$65,716.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing109@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "64992819779afe7208b30c82ebc97378830c0afbad39ba653b287474a7ca22c1"
+  },
+  {
+    "doc_id": "doc-10",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer10@example.com",
+        "span": [
+          29,
+          55
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          91,
+          101
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0413 674 303",
+        "span": [
+          168,
+          180
+        ]
+      }
+    ],
+    "source_sha256": "0f19f7fc5698575f647fb13a69963e94eb75e34da5b7c7330f145f287f333f41"
+  },
+  {
+    "doc_id": "doc-11",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$371,765.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer11@example.com",
+        "span": [
+          172,
+          194
+        ]
+      }
+    ],
+    "source_sha256": "4f6058b48a6598d18dc42de13e6206b62922332aa390b1a2baf2f853aaa82ed8"
+  },
+  {
+    "doc_id": "doc-12",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10432",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 557",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$90,658.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing112@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "776af53f4df2023e1710f42f2e120d798633f57549ecf318cdc0a20791711919"
+  },
+  {
+    "doc_id": "doc-13",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer13@example.com",
+        "span": [
+          29,
+          55
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          91,
+          101
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0463 325 559",
+        "span": [
+          168,
+          180
+        ]
+      }
+    ],
+    "source_sha256": "29d4d606289735660063368b01fed3d59d4f4150a973cfe858db574a9c89a045"
+  },
+  {
+    "doc_id": "doc-14",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$306,384.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer14@example.com",
+        "span": [
+          172,
+          194
+        ]
+      }
+    ],
+    "source_sha256": "f64749b3a4242f587ecdf3135b0c8f5776aa61e68f1fc14274d9c30f14c43f4b"
+  },
+  {
+    "doc_id": "doc-15",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10435",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$1,877.00",
+        "span": [
+          95,
+          104
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing115@example.com.au",
+        "span": [
+          150,
+          175
+        ]
+      }
+    ],
+    "source_sha256": "a5cf9931fa1c6d9b5f1f2450a9872448b37ad4497910fae85e10f02d7e09e1d3"
+  },
+  {
+    "doc_id": "doc-16",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer16@example.com",
+        "span": [
+          29,
+          55
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          91,
+          101
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0430 814 532",
+        "span": [
+          168,
+          180
+        ]
+      }
+    ],
+    "source_sha256": "4c64a6d59b51d4c9da320d0d71f3aabcf74f6c84525405956dfde0deadfcc4bc"
+  },
+  {
+    "doc_id": "doc-17",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$179,384.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer17@example.com",
+        "span": [
+          172,
+          194
+        ]
+      }
+    ],
+    "source_sha256": "28fda39de7247f622ed0a3004ee59aaf4aee5e4382b81a5d1d2a16497775683e"
+  },
+  {
+    "doc_id": "doc-18",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10438",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$20,320.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing118@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "5d7c8fe161b06b6bf7d7c6aedaf032825d625972e78fb0de555db2e8118e5e60"
+  },
+  {
+    "doc_id": "doc-19",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer19@example.com",
+        "span": [
+          29,
+          55
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          91,
+          101
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0453 204 194",
+        "span": [
+          168,
+          180
+        ]
+      }
+    ],
+    "source_sha256": "10ddc07e5d19ac9b016e97023b1f24a2626b56183ecf0041dabecc49f2558faa"
+  },
+  {
+    "doc_id": "doc-20",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$199,199.50",
+        "span": [
+          94,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer20@example.com",
+        "span": [
+          172,
+          194
+        ]
+      }
+    ],
+    "source_sha256": "6c0af233d80d13d2b75e3d2017b4aee83a91b16ebe9b23fcc80c84ea9d82c775"
+  },
+  {
+    "doc_id": "doc-21",
+    "record_type": "invoice",
+    "entities": [
+      {
+        "type": "invoice_no",
+        "value": "INV-10441",
+        "span": [
+          26,
+          35
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15/03/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "abn",
+        "value": "51 824 753 556",
+        "span": [
+          68,
+          82
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "824 753 556",
+        "span": [
+          71,
+          82
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$46,967.00",
+        "span": [
+          95,
+          105
+        ]
+      },
+      {
+        "type": "email",
+        "value": "billing121@example.com.au",
+        "span": [
+          151,
+          176
+        ]
+      }
+    ],
+    "source_sha256": "3d125cea9d300a9f64001d162bce171473df7f0ebb61627bdeaa45d6d85bc5df"
+  },
+  {
+    "doc_id": "doc-22",
+    "record_type": "email",
+    "entities": [
+      {
+        "type": "email",
+        "value": "intake@example.com",
+        "span": [
+          6,
+          24
+        ]
+      },
+      {
+        "type": "email",
+        "value": "case.officer22@example.com",
+        "span": [
+          29,
+          55
+        ]
+      },
+      {
+        "type": "date",
+        "value": "02/04/2027",
+        "span": [
+          91,
+          101
+        ]
+      },
+      {
+        "type": "phone",
+        "value": "0454 718 370",
+        "span": [
+          168,
+          180
+        ]
+      }
+    ],
+    "source_sha256": "667da2067c0f7b508d95c48e54ba579eafc5e5f4fd945cb52275e83292fb8799"
+  },
+  {
+    "doc_id": "doc-23",
+    "record_type": "report",
+    "entities": [
+      {
+        "type": "date",
+        "value": "20/05/2027",
+        "span": [
+          43,
+          53
+        ]
+      },
+      {
+        "type": "money",
+        "value": "$27,847.50",
+        "span": [
+          94,
+          104
+        ]
+      },
+      {
+        "type": "email",
+        "value": "reviewer23@example.com",
+        "span": [
+          171,
+          193
+        ]
+      }
+    ],
+    "source_sha256": "cad556333217584c1b964641e2879acacc5b3589be117a34008a3e1d8f0a1271"
+  }
+]
